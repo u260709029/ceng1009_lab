@@ -1,7 +1,7 @@
 # import random
 # for i in range(10):
 #     print(random.random())
-import math
+# import math
 # import random
 # for i in range(10):
 #     print(random.randint(25,35))
